@@ -20,9 +20,7 @@ There is a strong negative correlation (-0.65) between per capita income and cri
 Crime rate shows a moderate negative correlation (-0.53) with HDI, indicating higher human development is linked to reduced crime risk.
 Gini coefficient (income inequality) has a moderate positive correlation (0.48) with crime rate, suggesting inequality may drive higher crime levels.
 Literacy rate shows a negative correlation (-0.36) with crime rate, though the relationship is less pronounced than income or HDI.
-Unemployment rate shows only a weak positive correlation (0.15) with crime rate, meaning it is not a primary driver in this dataset.
-# How to run 
-# Product Link
+Unemployment rate shows only a weak positive correlation (0.15) with crime rate, meaning it is not a primary driver in this dataset. 
 # Limitation & next steps
 Limitations: 
 The dataset includes missing values for some variables (e.g., Per Capita Income), which required dropping incomplete rows
